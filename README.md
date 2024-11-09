@@ -168,7 +168,9 @@ These recommendations are intended to capitalize on the identified trends within
 
 This data was strictly cleaned and analyzed using Excel
 #### Tools
-- Excel - [https://Microsoft.com](#download-here)
+- Excel - [Dowload Here](https://microsoft.com)
+
+- The primary source of this data is an Excel file "C:\Users\Admin pc\Downloads\Data Science\Data Science\Bike Sales Analysis project.xlsx". gotten and cleaned by me.
 
 
 
